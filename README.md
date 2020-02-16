@@ -27,4 +27,8 @@ Issues:
 
 The only major one is that the idle timer only detects mouse and keyboard input.  Thus if you are say, playing a game with a gamepad, it wont think there is activity going on.  This could cause the button popup window to interfere just as you are about to score, or something!  So be aware and either bonk the mouse every once in a while or exit the script while playing such a game.
 
+Thanks:
+
+This script was inspired by TheNyJan's IdleKey program, originally posted on the Corsair forums https://forum.corsair.com/v3/showthread.php?t=136064 .  I've been using a slightly modded version for years.  I did finally update to Windows 10 and could not get the program to work, so I went ahead and created these scripts to do essentially the same exact thing, but now they are open source and unlikely to run into compatibility problems so long as autoit works (and it'd be easy to port to autohotkey or something similar.)  So thanks TheNyJan !
+
 
